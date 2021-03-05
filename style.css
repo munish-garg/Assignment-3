@@ -17,7 +17,7 @@ body{
 #button:hover{
     border-radius: 10px;
     border: solid 3px yellow;
-    box-shadow: 2px 2px 5px red;
+    box-shadow: 2px 2px 8px red;
     color: cyan;
     margin: 350px auto;
 }
