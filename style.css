@@ -1,0 +1,28 @@
+body{
+    background: linear-gradient(to right, #9d50bb, #6e48aa);
+    overflow: hidden;
+   }
+   
+#button{
+    display: block;
+    transform: scale(2.2);
+    margin: 360px auto;
+    background: transparent;
+    color: yellow;
+    border: solid 3px aqua;
+    font-family: 'Times New Roman', Times, serif;
+    /* transition: all 0.5s ease-in-out; */
+}
+   
+#button:hover{
+    border-radius: 10px;
+    border: solid 3px yellow;
+    box-shadow: 2px 2px 5px red;
+    color: cyan;
+    margin: 350px auto;
+}
+   
+   
+   
+   
+   
